@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://acerola1.github.io/csb-1yr8t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://acerola1.github.io/csb-1yr8t/static/js/main.22a4421a.chunk.js",
+    "main.js.map": "https://acerola1.github.io/csb-1yr8t/static/js/main.22a4421a.chunk.js.map",
+    "runtime-main.js": "https://acerola1.github.io/csb-1yr8t/static/js/runtime-main.d6cff3e2.js",
+    "runtime-main.js.map": "https://acerola1.github.io/csb-1yr8t/static/js/runtime-main.d6cff3e2.js.map",
+    "static/js/2.6f2dad50.chunk.js": "https://acerola1.github.io/csb-1yr8t/static/js/2.6f2dad50.chunk.js",
+    "static/js/2.6f2dad50.chunk.js.map": "https://acerola1.github.io/csb-1yr8t/static/js/2.6f2dad50.chunk.js.map",
+    "index.html": "https://acerola1.github.io/csb-1yr8t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://acerola1.github.io/csb-1yr8t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6f2dad50.chunk.js.LICENSE.txt": "https://acerola1.github.io/csb-1yr8t/static/js/2.6f2dad50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6cff3e2.js",
+    "static/js/2.6f2dad50.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.22a4421a.chunk.js"
+  ]
+}
